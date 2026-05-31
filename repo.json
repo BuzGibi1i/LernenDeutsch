@@ -1,8 +1,18 @@
-[
-  {
-    "name": "LernenDeutsch",
-    "description": "Lernen Deutsch Eklentisi",
-    "url": "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/",
-    "id": "LernenDeutschProvider"
-  }
-]
+{
+  "name": "LernenDeutsch",
+  "description": "Almanca öğrenme içerikleri",
+  "manifestVersion": 1,
+  "plugins": [
+    {
+      "name": "LernenDeutsch",
+      "internalName": "LernenDeutschProvider",
+      "url": "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/LernenDeutschProvider.cs3",
+      "version": 1,
+      "status": 1,
+      "language": "tr",
+      "tvTypes": ["Movie"],
+      "description": "Almanca öğrenme içerikleri",
+      "authors": ["BuzGibi1i"]
+    }
+  ]
+}
