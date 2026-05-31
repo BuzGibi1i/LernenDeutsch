@@ -20,7 +20,7 @@
             "name": "Test Videosu",
             "type": "mp4",
             "quality": "720",
-            "url": "http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4"
+            "url": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4"
         }
     ],
     "last_updated": "2026-05-31T10:52:09+03:00"
