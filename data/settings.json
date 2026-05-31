@@ -1,0 +1,27 @@
+{
+  "schema_version": "2.2.0",
+  "triggers": {
+    "maintenance_mode": false,
+    "hide_descriptions": "by_movie", 
+    "privacy_mode": false,
+    "show_recently_added": true,
+    "show_recommended": true
+  },
+  "defaults": {
+    "default_poster": "https://files.catbox.moe/default_poster.jpg"
+  },
+  "endpoints": {
+    "movies_sources": [[
+      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/movies.json"
+    ],
+    "actors_sources": ["[
+      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/actors.json"
+    ],
+    "categories_sources": [[
+      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/categories.json"
+    ],
+    "details_base_urls": [[
+      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/details/"
+    ]
+  }
+}
