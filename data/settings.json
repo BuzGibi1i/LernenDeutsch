@@ -11,16 +11,16 @@
     "default_poster": "https://files.catbox.moe/default_poster.jpg"
   },
   "endpoints": {
-    "movies_sources": [[
+    "movies_sources": [
       "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/movies.json"
     ],
-    "actors_sources": ["[
+    "actors_sources": [
       "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/actors.json"
     ],
-    "categories_sources": [[
+    "categories_sources": [
       "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/categories.json"
     ],
-    "details_base_urls": [[
+    "details_base_urls": [
       "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/details/"
     ]
   }
