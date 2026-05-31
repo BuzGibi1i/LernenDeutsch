@@ -17,8 +17,8 @@
     ],
     "sources": [
         {
-            "name": "Telegram",
-            "type": "telegram",
+            "name": "Test Videosu",
+            "type": "mp4",
             "quality": "720",
             "url": "http:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4"
         }
