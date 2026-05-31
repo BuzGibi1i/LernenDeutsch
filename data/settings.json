@@ -8,20 +8,20 @@
     "show_recommended": true
   },
   "defaults": {
-    "default_poster": "https://files.catbox.moe/default_poster.jpg"
+    "default_poster": "https:\/\/files.catbox.moe\/default_poster.jpg"
   },
   "endpoints": {
     "movies_sources": [
-      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/movies.json"
+      "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/LernenDeutsch\/master\/data\/movies.json"
     ],
     "actors_sources": [
-      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/actors.json"
+      "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/LernenDeutsch\/master\/data\/actors.json"
     ],
     "categories_sources": [
-      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/categories.json"
+      "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/LernenDeutsch\/master\/data\/categories.json"
     ],
     "details_base_urls": [
-      "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/main/data/details/"
+      "https:\/\/raw.githubusercontent.com\/BuzGibi1i\/LernenDeutsch\/master\/data\/details\/"
     ]
   }
 }
