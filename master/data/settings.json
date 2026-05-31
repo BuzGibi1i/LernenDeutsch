@@ -11,22 +11,22 @@
     "default_poster": "https://files.catbox.moe/default_poster.jpg"
   },
   "endpoints": {
-    "movies_sources": [[
+    "movies_sources": [
       "https://raw.githubusercontent.com/kullanici/repo/main/data/movies.json",
       "https://yedek-sunucu1.com/api/movies.json",
       "https://yedek-sunucu2.net/backup/movies.json"
     ],
-    "actors_sources": ["[
+    "actors_sources": [
       "https://raw.githubusercontent.com/kullanici/repo/main/data/actors.json",
       "https://yedek-sunucu1.com/api/actors.json",
       "https://yedek-sunucu2.net/backup/actors.json"
     ],
-    "categories_sources": [[
+    "categories_sources": [
       "https://raw.githubusercontent.com/kullanici/repo/main/data/categories.json",
       "https://yedek-sunucu1.com/api/categories.json",
       "https://yedek-sunucu2.net/backup/categories.json"
     ],
-    "details_base_urls": [[
+    "details_base_urls": [
       "https://raw.githubusercontent.com/kullanici/repo/main/data/details/",
       "https://yedek-sunucu1.com/api/details/",
       "https://yedek-sunucu2.net/backup/details/"
