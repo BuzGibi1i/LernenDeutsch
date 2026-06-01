@@ -4,6 +4,10 @@ import com.lagradost.cloudstream3.*
 import com.lagradost.cloudstream3.plugins.CloudstreamPlugin
 import com.lagradost.cloudstream3.utils.AppUtils.parseJson
 import com.lagradost.cloudstream3.utils.ExtractorLink
+import com.lagradost.cloudstream3.utils.getQualityFromName
+import com.lagradost.cloudstream3.utils.loadExtractor
+import com.lagradost.cloudstream3.utils.newExtractorLink
+import com.lagradost.cloudstream3.utils.ExtractorLinkType
 import java.lang.Exception
 
 // ✅ FİX 1: @CloudstreamPlugin olmadan plugin uygulama tarafından tanınmaz
@@ -12,7 +16,7 @@ class LernenDeutschProvider : MainAPI() {
 
     // ⚠️ GitHub raw base URL — kendi repo adresinle değiştir
     override var mainUrl = "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master"
-    override var name    = "LernenDeutsch"
+    override var name    = "LernenDeutschProvider"
     override val supportedTypes = setOf(TvType.Movie)
     override var lang    = "tr"
     override val hasMainPage = true
@@ -166,21 +170,24 @@ class LernenDeutschProvider : MainAPI() {
 
         // ✅ FİX 5: forEach → for döngüsü
         // loadExtractor suspend fonksiyon, forEach lambda suspend değil → hata
-        for (src in detail.sources) {
+		for (src in detail.sources) {
             val fixedUrl = bypassTurkeyBlocks(src.url)
             val type     = src.type.lowercase()
 
             when (type) {
-                "mp4", "m3u8" -> callback.invoke(
-                    ExtractorLink(
-                        source  = this.name,
-                        name    = "${src.name} ${src.quality ?: ""}".trim(),
-                        url     = fixedUrl,
-                        referer = "",
-                        quality = parseQuality(src.quality),
-                        isM3u8  = type == "m3u8"
+                "mp4", "m3u8" -> {
+                    callback.invoke(
+                        newExtractorLink(
+                            source = this.name,
+                            name = "${src.name} ${src.quality ?: ""}".trim(),
+                            url = fixedUrl,
+                            type = if (type == "m3u8") ExtractorLinkType.M3U8 else ExtractorLinkType.VIDEO
+                        ) {
+                            this.referer = ""
+                            this.quality = parseQuality(src.quality)
+                        }
                     )
-                )
+                }
                 else -> loadExtractor(fixedUrl, subtitleCallback, callback)
             }
         }
@@ -198,13 +205,13 @@ class LernenDeutschProvider : MainAPI() {
     // ── Kalite → CloudStream formatı ──
     private fun parseQuality(q: String?): Int {
         return when (q?.lowercase()?.replace("p", "")) {
-            "360"        -> Qualities.P360.value
-            "480"        -> Qualities.P480.value
-            "720"        -> Qualities.P720.value
-            "1080"       -> Qualities.P1080.value
-            "1440", "2k" -> Qualities.P1440.value
-            "2160", "4k" -> Qualities.P2160.value
-            else         -> Qualities.Unknown.value
+            "360"        -> getQualityFromName("360")
+            "480"        -> getQualityFromName("480")
+            "720"        -> getQualityFromName("720")
+            "1080"       -> getQualityFromName("1080")
+            "1440", "2k" -> getQualityFromName("1440")
+            "2160", "4k" -> getQualityFromName("2160")
+            else         -> getQualityFromName("")
         }
     }
 }
