@@ -1,19 +1,23 @@
 {
     "app_id": 2,
-    "last_updated": "2026-05-31T10:52:09+03:00",
+    "last_updated": "2026-06-21T16:13:19+03:00",
     "total_movies": 1,
     "movies": [
         {
             "id": "3",
             "title": "Almanca Ders 1",
-            "year": 2026,
+            "year": 2025,
+            "language": "tr",
             "poster": "https:\/\/i0.shbdn.com\/photos\/05\/94\/83\/x5_131405948326z.jpg",
             "badges": {
                 "featured": true,
                 "recommended": true
             },
             "categories": [
-                "Almanca Öğreniyorum"
+                {
+                    "id": 2,
+                    "name": "Almanca Öğreniyorum"
+                }
             ]
         }
     ]

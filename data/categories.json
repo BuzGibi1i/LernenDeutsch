@@ -1,10 +1,14 @@
 {
-    "last_updated": "2026-05-31T10:52:09+03:00",
+    "last_updated": "2026-06-21T16:13:19+03:00",
     "categories": [
         {
             "id": 2,
             "name": "Almanca Öğreniyorum",
-            "movie_count": 1
+            "category_image": null,
+            "movie_count": 1,
+            "category_movies": [
+                3
+            ]
         }
     ]
 }
