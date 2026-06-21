@@ -1,7 +1,8 @@
 {
     "id": "3",
     "title": "Almanca Ders 1",
-    "year": 2026,
+    "year": 2025,
+    "language": "tr",
     "description": "Almanca Ders 1",
     "hide_description": true,
     "poster": "https:\/\/i0.shbdn.com\/photos\/05\/94\/83\/x5_131405948326z.jpg",
@@ -10,18 +11,26 @@
         "recommended": true
     },
     "categories": [
-        "Almanca Öğreniyorum"
+        {
+            "id": 2,
+            "name": "Almanca Öğreniyorum"
+        }
     ],
     "actors": [
-        "Almanca Öğretmeni"
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
     ],
     "sources": [
         {
-            "name": "Test Videosu",
+            "name": "Deneme",
             "type": "mp4",
-            "quality": "720",
+            "quality": "480",
+            "priority": 1,
             "url": "https:\/\/commondatastorage.googleapis.com\/gtv-videos-bucket\/sample\/BigBuckBunny.mp4"
         }
     ],
-    "last_updated": "2026-05-31T10:52:09+03:00"
+    "subtitles": [],
+    "last_updated": "2026-06-21T16:13:19+03:00"
 }
