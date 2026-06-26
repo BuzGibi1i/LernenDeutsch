@@ -1,0 +1,42 @@
+{
+    "id": "20",
+    "title": "Ders 7 - Alıştırmalar ve çözümleri 3",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve çözümleri 3",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 3,
+            "name": "Almanca A2"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/g9tee2z6tt77.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/29RqvxdZk2IZJvB\/7._Al%C4%B1%C5%9Ft%C4%B1rmalar_ve_%C3%A7%C3%B6z%C3%BCmleri_3.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

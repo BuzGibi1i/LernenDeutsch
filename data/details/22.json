@@ -1,0 +1,42 @@
+{
+    "id": "22",
+    "title": "Ders 9 - Konjugation (Fiil Çekimleri) ve alıştırmalar 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Konjugation (Fiil Çekimleri) ve alıştırmalar 2",
+    "hide_description": false,
+    "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 5,
+            "name": "Almanca B2"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/prg13jvk0d5n.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/PyykmdjmvRf04y1\/9._Konjugation_%28Fiil_%C3%87ekimleri%29_ve_al%C4%B1%C5%9Ft%C4%B1rmalar_2.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

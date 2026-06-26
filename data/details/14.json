@@ -1,0 +1,42 @@
+{
+    "id": "14",
+    "title": "Ders 1 - Selamlamalar",
+    "year": 2026,
+    "language": "tr",
+    "description": "Almanca Kursu hakkında kısa bilgi, Selamlaşma ve vedalaşma kavramları",
+    "hide_description": false,
+    "poster": "https:\/\/i0.shbdn.com\/photos\/05\/94\/83\/x5_131405948326z.jpg",
+    "backdrop": "https:\/\/str42.vidoza.net\/i\/03\/08377\/u4tu6q2rm1fm_xt.jpg?mkxj6z",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 2,
+            "name": "Almanca A1"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/u4tu6q2rm1fm.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/QKMGaDbk8Ki0lla\/1._Almanca_Kursu_hakk%C4%B1nda_k%C4%B1sa_bilgi%2C_Selamla%C5%9Fma_ve_vedala%C5%9Fma_kavramlar%C4%B1.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

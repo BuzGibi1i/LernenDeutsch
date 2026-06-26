@@ -1,0 +1,42 @@
+{
+    "id": "18",
+    "title": "Ders 5 - Alıştırmalar ve çözümleri",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve çözümleri",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 2,
+            "name": "Almanca A1"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/fj0ywqd39x4s.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/YWBvBWpvpzSv8JW\/5._Al%C4%B1%C5%9Ft%C4%B1rmalar_ve_%C3%A7%C3%B6z%C3%BCmleri.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

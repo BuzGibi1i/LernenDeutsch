@@ -1,0 +1,42 @@
+{
+    "id": "19",
+    "title": "Ders 6 - Alıştırmalar ve çözümleri 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Alıştırmalar ve çözümleri 2",
+    "hide_description": false,
+    "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947",
+    "backdrop": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 3,
+            "name": "Almanca A2"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/j4frcwowx79i.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/3O78kWjPjzSdqQW\/6._Al%C4%B1%C5%9Ft%C4%B1rmalar_ve_%C3%A7%C3%B6z%C3%BCmleri_2.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

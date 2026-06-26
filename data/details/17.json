@@ -1,0 +1,42 @@
+{
+    "id": "17",
+    "title": "Ders 4 - Konjugation (Fiil Çekimleri)",
+    "year": 2026,
+    "language": "tr",
+    "description": "Konjugation (Fiil Çekimleri)",
+    "hide_description": false,
+    "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716",
+    "backdrop": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 2,
+            "name": "Almanca A1"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/rcvtxukbuqvi.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/9plpJQle4MuagaY\/4._Konjugation_%28Fiil_%C3%87ekimleri%29.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

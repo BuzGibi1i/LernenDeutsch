@@ -1,0 +1,42 @@
+{
+    "id": "16",
+    "title": "Ders 3 - Tanışma İfadeleri 2",
+    "year": 2026,
+    "language": "tr",
+    "description": "Tanışma İfadeleri 2",
+    "hide_description": false,
+    "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520",
+    "backdrop": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 2,
+            "name": "Almanca A1"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/yphav8wlqof0.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/LQM1ZG76dlFadg\/3._Tan%C4%B1%C5%9Fma_%C4%B0fadeleri_2.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}

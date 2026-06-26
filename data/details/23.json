@@ -1,0 +1,42 @@
+{
+    "id": "23",
+    "title": "Ders 10 - Almanca Harfler",
+    "year": 2026,
+    "language": "tr",
+    "description": "Almanca Harfler",
+    "hide_description": false,
+    "poster": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5.jpg?v=1782435291",
+    "backdrop": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5_x.jpg",
+    "badges": {
+        "featured": true,
+        "recommended": true
+    },
+    "categories": [
+        {
+            "id": 6,
+            "name": "Almanca C1"
+        }
+    ],
+    "actors": [
+        {
+            "id": 2,
+            "name": "Almanca Öğretmeni"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Vidoza",
+            "type": "vidoza",
+            "quality": "",
+            "url": "https:\/\/vidoza.net\/e54s3grrfre5.html"
+        },
+        {
+            "name": "Streamtape",
+            "type": "streamtape",
+            "quality": "",
+            "url": "https:\/\/streamtape.com\/v\/aRbm0bXGvOuxgLw\/10._Almanca_Harfler.mp4"
+        }
+    ],
+    "subtitles": [],
+    "last_updated": "2026-06-26T03:56:04+03:00"
+}
