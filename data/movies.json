@@ -1,12 +1,148 @@
 {
     "app_id": 2,
-    "last_updated": "2026-06-21T16:13:19+03:00",
-    "total_movies": 1,
+    "last_updated": "2026-06-26T03:56:04+03:00",
+    "total_movies": 10,
     "movies": [
         {
-            "id": "3",
-            "title": "Almanca Ders 1",
-            "year": 2025,
+            "id": "23",
+            "title": "Ders 10 - Almanca Harfler",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str39.vidoza.net\/i\/03\/08377\/e54s3grrfre5.jpg?v=1782435291",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 6,
+                    "name": "Almanca C1"
+                }
+            ]
+        },
+        {
+            "id": "22",
+            "title": "Ders 9 - Konjugation (Fiil Çekimleri) ve alıştırmalar 2",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/prg13jvk0d5n.jpg?v=1782435208",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 5,
+                    "name": "Almanca B2"
+                }
+            ]
+        },
+        {
+            "id": "21",
+            "title": "Ders 8 - Konjugation (Fiil Çekimleri) ve alıştırmalar",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str42.vidoza.net\/i\/01\/08377\/kx9vt6s8zr3p.jpg?v=1782435124",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 4,
+                    "name": "Almanca B1"
+                }
+            ]
+        },
+        {
+            "id": "20",
+            "title": "Ders 7 - Alıştırmalar ve çözümleri 3",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str42.vidoza.net\/i\/02\/08377\/g9tee2z6tt77.jpg?v=1782435036",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "19",
+            "title": "Ders 6 - Alıştırmalar ve çözümleri 2",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str38.vidoza.net\/i\/01\/08377\/j4frcwowx79i.jpg?v=1782434947",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 3,
+                    "name": "Almanca A2"
+                }
+            ]
+        },
+        {
+            "id": "18",
+            "title": "Ders 5 - Alıştırmalar ve çözümleri",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str39.vidoza.net\/i\/02\/08377\/fj0ywqd39x4s.jpg?v=1782434827",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "17",
+            "title": "Ders 4 - Konjugation (Fiil Çekimleri)",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str37.vidoza.net\/i\/03\/08377\/rcvtxukbuqvi.jpg?v=1782434716",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "16",
+            "title": "Ders 3 - Tanışma İfadeleri 2",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/str40.vidoza.net\/i\/01\/08377\/yphav8wlqof0.jpg?v=1782434520",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "15",
+            "title": "Ders 2 - Tanışma İfadeleri",
+            "year": 2026,
             "language": "tr",
             "poster": "https:\/\/i0.shbdn.com\/photos\/05\/94\/83\/x5_131405948326z.jpg",
             "badges": {
@@ -16,7 +152,24 @@
             "categories": [
                 {
                     "id": 2,
-                    "name": "Almanca Öğreniyorum"
+                    "name": "Almanca A1"
+                }
+            ]
+        },
+        {
+            "id": "14",
+            "title": "Ders 1 - Selamlamalar",
+            "year": 2026,
+            "language": "tr",
+            "poster": "https:\/\/i0.shbdn.com\/photos\/05\/94\/83\/x5_131405948326z.jpg",
+            "badges": {
+                "featured": true,
+                "recommended": true
+            },
+            "categories": [
+                {
+                    "id": 2,
+                    "name": "Almanca A1"
                 }
             ]
         }

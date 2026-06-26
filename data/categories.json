@@ -1,13 +1,54 @@
 {
-    "last_updated": "2026-06-21T16:13:19+03:00",
+    "last_updated": "2026-06-26T03:56:04+03:00",
     "categories": [
         {
             "id": 2,
-            "name": "Almanca Öğreniyorum",
-            "category_image": null,
+            "name": "Almanca A1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png171\/a1-formatkey-webp-w640r.png",
+            "movie_count": 5,
+            "category_movies": [
+                18,
+                17,
+                16,
+                15,
+                14
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Almanca A2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/a2-formatkey-webp-w640r.png",
+            "movie_count": 2,
+            "category_movies": [
+                20,
+                19
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Almanca B1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/b1-formatkey-webp-w640r.png",
             "movie_count": 1,
             "category_movies": [
-                3
+                21
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Almanca B2",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/b2-formatkey-webp-w640r.png",
+            "movie_count": 1,
+            "category_movies": [
+                22
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Almanca C1",
+            "category_image": "https:\/\/www.goethe.de\/resources\/files\/png168\/c1-formatkey-webp-w640r.png",
+            "movie_count": 1,
+            "category_movies": [
+                23
             ]
         }
     ]

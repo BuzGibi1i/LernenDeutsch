@@ -1,13 +1,22 @@
 {
-    "last_updated": "2026-06-21T16:13:19+03:00",
+    "last_updated": "2026-06-26T03:56:04+03:00",
     "actors": [
         {
             "id": 2,
             "name": "Almanca Öğretmeni",
             "actor_image": "https:\/\/www.yakamoztercume.com\/upload\/resim\/171.jpg",
-            "movie_count": 1,
+            "movie_count": 10,
             "actor_movies": [
-                3
+                23,
+                22,
+                21,
+                20,
+                19,
+                18,
+                17,
+                16,
+                15,
+                14
             ]
         }
     ]
