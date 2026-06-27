@@ -28,15 +28,17 @@
             "name": "Vidoza",
             "type": "vidoza",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/vidoza.net\/yphav8wlqof0.html"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/streamtape.com\/v\/LQM1ZG76dlFadg\/3._Tan%C4%B1%C5%9Fma_%C4%B0fadeleri_2.mp4"
         }
     ],
     "subtitles": [],
-    "last_updated": "2026-06-26T03:56:04+03:00"
+    "last_updated": "2026-06-27T15:35:00+03:00"
 }

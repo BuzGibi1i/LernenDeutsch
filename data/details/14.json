@@ -28,15 +28,17 @@
             "name": "Vidoza",
             "type": "vidoza",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/vidoza.net\/u4tu6q2rm1fm.html"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/streamtape.com\/v\/QKMGaDbk8Ki0lla\/1._Almanca_Kursu_hakk%C4%B1nda_k%C4%B1sa_bilgi%2C_Selamla%C5%9Fma_ve_vedala%C5%9Fma_kavramlar%C4%B1.mp4"
         }
     ],
     "subtitles": [],
-    "last_updated": "2026-06-26T03:56:04+03:00"
+    "last_updated": "2026-06-27T15:35:00+03:00"
 }

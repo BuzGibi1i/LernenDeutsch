@@ -28,15 +28,17 @@
             "name": "Vidoza",
             "type": "vidoza",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/vidoza.net\/fj0ywqd39x4s.html"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/streamtape.com\/v\/YWBvBWpvpzSv8JW\/5._Al%C4%B1%C5%9Ft%C4%B1rmalar_ve_%C3%A7%C3%B6z%C3%BCmleri.mp4"
         }
     ],
     "subtitles": [],
-    "last_updated": "2026-06-26T03:56:04+03:00"
+    "last_updated": "2026-06-27T15:35:00+03:00"
 }

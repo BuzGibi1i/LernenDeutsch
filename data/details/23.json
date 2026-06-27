@@ -28,15 +28,17 @@
             "name": "Vidoza",
             "type": "vidoza",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/vidoza.net\/e54s3grrfre5.html"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/streamtape.com\/v\/aRbm0bXGvOuxgLw\/10._Almanca_Harfler.mp4"
         }
     ],
     "subtitles": [],
-    "last_updated": "2026-06-26T03:56:04+03:00"
+    "last_updated": "2026-06-27T15:35:00+03:00"
 }

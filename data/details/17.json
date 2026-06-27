@@ -28,15 +28,17 @@
             "name": "Vidoza",
             "type": "vidoza",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/vidoza.net\/rcvtxukbuqvi.html"
         },
         {
             "name": "Streamtape",
             "type": "streamtape",
             "quality": "",
+            "priority": 101,
             "url": "https:\/\/streamtape.com\/v\/9plpJQle4MuagaY\/4._Konjugation_%28Fiil_%C3%87ekimleri%29.mp4"
         }
     ],
     "subtitles": [],
-    "last_updated": "2026-06-26T03:56:04+03:00"
+    "last_updated": "2026-06-27T15:35:00+03:00"
 }
