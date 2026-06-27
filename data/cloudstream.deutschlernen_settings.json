@@ -40,9 +40,9 @@
             "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/categories.json"
         ],
         "details_base_urls": [
-            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/movies/",
-            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/movies/",
-            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/movies/"
+            "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/details/",
+            "https://cdn.jsdelivr.net/gh/BuzGibi1i/LernenDeutsch@master/data/details/",
+            "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/details/"
         ],
         "homescreen_sources": [
             "https://raw.githubusercontent.com/BuzGibi1i/LernenDeutsch/master/data/homescreen.json",
@@ -58,5 +58,5 @@
     "app_version": "1.0.0",
     "app_update_url": "",
     "app_mode": 1,
-    "last_updated": "2026-06-27T10:55:13+03:00"
+    "last_updated": "2026-06-27T16:03:23+03:00"
 }
