@@ -9,8 +9,29 @@
     },
     "app_info": {
         "name": "Deutsch Lernen",
-        "about_text": "<p><br></p>",
-        "faq_data": []
+        "about_text": "<p><br></p><p>Sadece ve sadece bilgi paylaşmak için yapılmıştır.</p><p><br></p><p><strong>Hiçbir Maddi Beklentimiz Yoktur!</strong></p><p><br></p>",
+        "faq_data": [
+            {
+                "soru": "Ders videoları neden açılmıyor veya donuyor?",
+                "cevap": "Videolarımızın sorunsuz oynatılması için güçlü bir internet bağlantısı gereklidir. Eğer donma yaşıyorsanız, video oynatıcı üzerindeki 'Kaynak' butonlarını kullanarak alternatif sunucuları (Kaynak 1, Kaynak 2) deneyebilirsiniz."
+            },
+            {
+                "soru": "Uygulamadaki içerikler tamamen ücretsiz mi?",
+                "cevap": "Evet, uygulamamız içerisinde sunduğumuz tüm Almanca ders videoları, kategoriler ve dökümanlar tamamen ücretsizdir. Sizden herhangi bir üyelik veya ücret talep edilmez."
+            },
+            {
+                "soru": "Yeni dersler hangi aralıklarla ekleniyor?",
+                "cevap": "Eğitim setlerimiz düzenli olarak güncellenmektedir. Yeni bir ders veya kategori eklendiğinde ana sayfanızda otomatik olarak görünür. Herhangi bir güncellemeyi kaçırmamak için uygulamayı güncel tuttuğunuzdan emin olun."
+            },
+            {
+                "soru": "Uygulama için güncelleme uyarısı aldığımda ne yapmalıyım?",
+                "cevap": "Ekrana gelen güncelleme uyarısındaki 'Güncelle' butonuna basarak en yeni sürüme ait APK dosyasını indirebilirsiniz. Yeni sürümü yüklemek, hata düzeltmeleri ve yeni eklenen özelliklere erişmeniz için zorunludur."
+            },
+            {
+                "soru": "Hata bildirimleri veya öneriler için sizinle nasıl iletişime geçebilirim?",
+                "cevap": "Uygulama içindeki Hakkımızda sayfasında yer alan sabit 'E-Posta' veya 'Telegram' butonlarına tıklayarak bizimle 7/24 doğrudan iletişime geçebilir, sorularınızı veya teknik sorunlarınızı iletebilirsiniz."
+            }
+        ]
     },
     "defaults": {
         "default_poster": "https://files.catbox.moe/default_poster.jpg"
@@ -55,8 +76,8 @@
             "https://raw.githack.com/BuzGibi1i/LernenDeutsch/master/data/movie_series.json"
         ]
     },
-    "app_version": "1.0.0",
+    "app_version": "0.2806.01",
     "app_update_url": "",
     "app_mode": 1,
-    "last_updated": "2026-06-27T16:03:23+03:00"
+    "last_updated": "2026-06-28T21:51:08+03:00"
 }
